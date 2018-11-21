@@ -32,3 +32,5 @@ C:\Users\1\RiderProjects\WebApp\WebApp\obj\Debug\netcoreapp2.1\WebApp.pdb
 C:\Users\1\RiderProjects\WebApp\WebApp\obj\Debug\netcoreapp2.1\WebApp.csproj.CopyComplete
 C:\Users\1\RiderProjects\WebApp\WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
 C:\Users\1\RiderProjects\WebApp\WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\1\RiderProjects\WebApp\WebApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\1\RiderProjects\WebApp\WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
