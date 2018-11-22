@@ -18,12 +18,13 @@
         <e p="Controllers" t="Include">
           <e p="AccountController.cs" t="Include" />
           <e p="HomeController.cs" t="Include" />
+          <e p="UsersController.cs" t="Include" />
         </e>
         <e p="Migrations" t="Include">
-          <e p="20181121203347_Init.cs" t="Include" />
-          <e p="20181121203347_Init.Designer.cs" t="Include" />
-          <e p="20181121220005_InitTwo.cs" t="Include" />
-          <e p="20181121220005_InitTwo.Designer.cs" t="Include" />
+          <e p="20181122085729_Init.cs" t="Include" />
+          <e p="20181122085729_Init.Designer.cs" t="Include" />
+          <e p="20181122093307_Init2.cs" t="Include" />
+          <e p="20181122093307_Init2.Designer.cs" t="Include" />
           <e p="ApplicationContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
@@ -44,6 +45,9 @@
         </e>
         <e p="Startup.cs" t="Include" />
         <e p="ViewModels" t="Include">
+          <e p="ChangePasswordViewModel.cs" t="Include" />
+          <e p="CreateUserViewModel.cs" t="Include" />
+          <e p="EditUserViewModel.cs" t="Include" />
           <e p="LoginViewModel.cs" t="Include" />
           <e p="RegisterViewModel.cs" t="Include" />
         </e>
@@ -66,6 +70,12 @@
             <e p="_LoginPartial.cshtml" t="Include" />
             <e p="_ValidationScriptsPartial.cshtml" t="Include" />
             <e p="Error.cshtml" t="Include" />
+          </e>
+          <e p="Users" t="Include">
+            <e p="ChangePassword.cshtml" t="Include" />
+            <e p="Create.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
           </e>
         </e>
         <e p="WebApp.csproj" t="IncludeRecursive" />
