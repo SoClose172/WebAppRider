@@ -50,68 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChangePassword.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebApp/Views/Users/ChangePassword.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebApp/appsettings.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChangePasswordViewModel.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebApp/ViewModels/ChangePasswordViewModel.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding>
-                <marker date="1542878672361" expanded="true" signature="27:261" ph="{...}" />
-                <marker date="1542878672361" expanded="true" signature="70:259" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CreateUserViewModel.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebApp/ViewModels/CreateUserViewModel.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-              <folding>
-                <marker date="1542876473948" expanded="true" signature="27:205" ph="{...}" />
-                <marker date="1542876473948" expanded="true" signature="66:203" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EditUserViewModel.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebApp/ViewModels/EditUserViewModel.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-              <folding>
-                <marker date="1542876576442" expanded="true" signature="27:197" ph="{...}" />
-                <marker date="1542876576442" expanded="true" signature="64:195" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebApp/Views/Users/Index.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-187">
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            <state relative-caret-position="85">
+              <caret line="16" selection-start-line="16" selection-end-line="17" />
               <folding>
                 <marker date="1542879456399" expanded="true" signature="39:87" ph="@..." />
                 <marker date="1542879456399" expanded="true" signature="141:866" ph="&lt;table.../&gt;" />
@@ -121,6 +64,85 @@
                 <marker date="1542879456399" expanded="true" signature="341:837" ph="&lt;td.../&gt;" />
                 <marker date="1542879456399" expanded="true" signature="362:819" ph="&lt;form.../&gt;" />
                 <marker date="1542879456399" expanded="true" signature="681:795" ph="&lt;button.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebApp/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+              <folding>
+                <marker date="1542879995281" expanded="true" signature="6:217" ph="..." />
+                <marker date="1542879995281" expanded="true" signature="247:1074" ph="{...}" />
+                <marker date="1542879995281" expanded="true" signature="325:1072" ph="{...}" />
+                <marker date="1542879995281" expanded="true" signature="368:415" ph="{...}" />
+                <marker date="1542879995281" expanded="true" signature="453:573" ph="{...}" />
+                <marker date="1542879995281" expanded="true" signature="613:717" ph="{...}" />
+                <marker date="1542879995281" expanded="true" signature="757:804" ph="{...}" />
+                <marker date="1542879995281" expanded="true" signature="935:1066" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChangeRoleViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebApp/ViewModels/ChangeRoleViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+              <folding>
+                <marker date="1542880086282" expanded="true" signature="6:70" ph="..." />
+                <marker date="1542880086282" expanded="true" signature="101:503" ph="{...}" />
+                <marker date="1542880086282" expanded="true" signature="140:501" ph="{...}" />
+                <marker date="1542880086282" expanded="true" signature="382:495" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RolesController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebApp/Controllers/RolesController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+              <folding>
+                <marker date="1542880167998" expanded="true" signature="6:254" ph="..." />
+                <marker date="1542880167998" expanded="true" signature="285:3613" ph="{...}" />
+                <marker date="1542880167998" expanded="true" signature="333:3611" ph="{...}" />
+                <marker date="1542880167998" expanded="true" signature="528:628" ph="{...}" />
+                <marker date="1542880167998" expanded="true" signature="834:1423" ph="{...}" />
+                <marker date="1542880167998" expanded="true" signature="889:1382" ph="{...}" />
+                <marker date="1542880167998" expanded="true" signature="1037:1127" ph="{...}" />
+                <marker date="1542880167998" expanded="true" signature="1148:1368" ph="{...}" />
+                <marker date="1542880167998" expanded="true" signature="1223:1350" ph="{...}" />
+                <marker date="1542880167998" expanded="true" signature="1511:1783" ph="{...}" />
+                <marker date="1542880167998" expanded="true" signature="1621:1727" ph="{...}" />
+                <marker date="1542880167998" expanded="true" signature="1926:2628" ph="{...}" />
+                <marker date="1542880167998" expanded="true" signature="2066:2585" ph="{...}" />
+                <marker date="1542880167998" expanded="true" signature="2350:2534" ph="{...}" />
+                <marker date="1542880167998" expanded="true" signature="2728:3605" ph="{...}" />
+                <marker date="1542880167998" expanded="true" signature="2868:3562" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebApp/Views/Roles/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+              <folding>
+                <marker date="1542880255100" expanded="true" signature="87:496" ph="&lt;table.../&gt;" />
+                <marker date="1542880255100" expanded="true" signature="113:487" ph="@..." />
+                <marker date="1542880255100" expanded="true" signature="141:487" ph="{...}" />
+                <marker date="1542880255100" expanded="true" signature="156:481" ph="&lt;tr.../&gt;" />
+                <marker date="1542880255100" expanded="true" signature="205:467" ph="&lt;td.../&gt;" />
+                <marker date="1542880255100" expanded="true" signature="226:449" ph="&lt;form.../&gt;" />
+                <marker date="1542880255100" expanded="true" signature="311:425" ph="&lt;button.../&gt;" />
               </folding>
             </state>
           </provider>
@@ -143,18 +165,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Edit.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebApp/Views/Users/Edit.cshtml">
+      <file leaf-file-name="Create.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebApp/Views/Roles/Create.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <folding>
+                <marker date="1542880340837" expanded="true" signature="79:331" ph="&lt;form.../&gt;" />
+                <marker date="1542880340837" expanded="true" signature="124:255" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserList.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebApp/Views/Roles/UserList.cshtml">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
               <folding>
-                <marker date="1542876768486" expanded="true" signature="43:98" ph="@..." />
-                <marker date="1542876768486" expanded="true" signature="99:773" ph="&lt;form.../&gt;" />
-                <marker date="1542876768486" expanded="true" signature="216:296" ph="&lt;div.../&gt;" />
-                <marker date="1542876768486" expanded="true" signature="301:470" ph="&lt;div.../&gt;" />
-                <marker date="1542876768486" expanded="true" signature="475:651" ph="&lt;div.../&gt;" />
-                <marker date="1542876768486" expanded="true" signature="656:765" ph="&lt;div.../&gt;" />
+                <marker date="1542880431008" expanded="true" signature="71:355" ph="&lt;table.../&gt;" />
+                <marker date="1542880431008" expanded="true" signature="97:346" ph="@..." />
+                <marker date="1542880431008" expanded="true" signature="125:346" ph="{...}" />
+                <marker date="1542880431008" expanded="true" signature="140:340" ph="&lt;tr.../&gt;" />
+                <marker date="1542880431008" expanded="true" signature="190:326" ph="&lt;td.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Edit.cshtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebApp/Views/Roles/Edit.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <folding>
+                <marker date="1542880473369" expanded="true" signature="145:613" ph="&lt;form.../&gt;" />
+                <marker date="1542880473369" expanded="true" signature="252:536" ph="&lt;div.../&gt;" />
+                <marker date="1542880473369" expanded="true" signature="285:525" ph="@..." />
+                <marker date="1542880473369" expanded="true" signature="331:525" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -183,6 +232,12 @@
     <setting file="file://$PROJECT_DIR$/WebApp/ViewModels/ChangePasswordViewModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApp/Views/Users/ChangePassword.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApp/Models/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/ViewModels/ChangeRoleViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Controllers/RolesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Roles/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Roles/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Roles/UserList.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Roles/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApp/Models/ApplicationContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApp/ViewModels/LoginViewModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApp/Views/Account/Login.cshtml" root0="FORCE_HIGHLIGHTING" />
@@ -219,6 +274,13 @@
         <option value="$PROJECT_DIR$/WebApp/Views/Account/ChangePassword.cshtml" />
         <option value="$PROJECT_DIR$/WebApp/Controllers/UsersController.cs" />
         <option value="$PROJECT_DIR$/WebApp/Views/Users/Index.cshtml" />
+        <option value="$PROJECT_DIR$/WebApp/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/WebApp/ViewModels/ChangeRoleViewModel.cs" />
+        <option value="$PROJECT_DIR$/WebApp/Controllers/RolesController.cs" />
+        <option value="$PROJECT_DIR$/WebApp/Views/Roles/Index.cshtml" />
+        <option value="$PROJECT_DIR$/WebApp/Views/Roles/Create.cshtml" />
+        <option value="$PROJECT_DIR$/WebApp/Views/Roles/UserList.cshtml" />
+        <option value="$PROJECT_DIR$/WebApp/Views/Roles/Edit.cshtml" />
       </list>
     </option>
   </component>
@@ -264,12 +326,6 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="WebApp (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="WebApp" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="WebApp (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="WebApp" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="ViewModels" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
@@ -283,14 +339,7 @@
               <item name="WebApp (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="WebApp" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Account" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="WebApp (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="WebApp" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Users" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Roles" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -353,12 +402,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542822257755</updated>
-      <workItem from="1542822260937" duration="20506000" />
+      <workItem from="1542822260937" duration="22460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20506000" />
+    <option name="totallyTimeSpent" value="22460000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -487,23 +536,6 @@
           <caret line="3" selection-start-line="3" selection-end-line="3" />
           <folding>
             <marker date="1542839383926" expanded="true" signature="0:49" ph="@..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebApp/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <marker date="1542822270914" expanded="false" signature="6:175" ph="..." />
-            <marker date="1542822270914" expanded="true" signature="205:1001" ph="{...}" />
-            <marker date="1542822270914" expanded="true" signature="252:999" ph="{...}" />
-            <marker date="1542822270914" expanded="true" signature="295:342" ph="{...}" />
-            <marker date="1542822270914" expanded="true" signature="380:500" ph="{...}" />
-            <marker date="1542822270914" expanded="true" signature="540:644" ph="{...}" />
-            <marker date="1542822270914" expanded="true" signature="684:731" ph="{...}" />
-            <marker date="1542822270914" expanded="true" signature="862:993" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -703,21 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebApp/Views/Users/Create.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-          <folding>
-            <marker date="1542876724977" expanded="true" signature="45:96" ph="@..." />
-            <marker date="1542876724977" expanded="true" signature="97:868" ph="&lt;form.../&gt;" />
-            <marker date="1542876724977" expanded="true" signature="216:385" ph="&lt;div.../&gt;" />
-            <marker date="1542876724977" expanded="true" signature="390:566" ph="&lt;div.../&gt;" />
-            <marker date="1542876724977" expanded="true" signature="571:747" ph="&lt;div.../&gt;" />
-            <marker date="1542876724977" expanded="true" signature="752:860" ph="&lt;div.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebApp/Views/Users/Edit.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -804,8 +821,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WebApp/Views/Users/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        <state relative-caret-position="85">
+          <caret line="16" selection-start-line="16" selection-end-line="17" />
           <folding>
             <marker date="1542879456399" expanded="true" signature="39:87" ph="@..." />
             <marker date="1542879456399" expanded="true" signature="141:866" ph="&lt;table.../&gt;" />
@@ -815,6 +832,130 @@
             <marker date="1542879456399" expanded="true" signature="341:837" ph="&lt;td.../&gt;" />
             <marker date="1542879456399" expanded="true" signature="362:819" ph="&lt;form.../&gt;" />
             <marker date="1542879456399" expanded="true" signature="681:795" ph="&lt;button.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApp/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <marker date="1542879995281" expanded="true" signature="6:217" ph="..." />
+            <marker date="1542879995281" expanded="true" signature="247:1074" ph="{...}" />
+            <marker date="1542879995281" expanded="true" signature="325:1072" ph="{...}" />
+            <marker date="1542879995281" expanded="true" signature="368:415" ph="{...}" />
+            <marker date="1542879995281" expanded="true" signature="453:573" ph="{...}" />
+            <marker date="1542879995281" expanded="true" signature="613:717" ph="{...}" />
+            <marker date="1542879995281" expanded="true" signature="757:804" ph="{...}" />
+            <marker date="1542879995281" expanded="true" signature="935:1066" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApp/ViewModels/ChangeRoleViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+          <folding>
+            <marker date="1542880086282" expanded="true" signature="6:70" ph="..." />
+            <marker date="1542880086282" expanded="true" signature="101:503" ph="{...}" />
+            <marker date="1542880086282" expanded="true" signature="140:501" ph="{...}" />
+            <marker date="1542880086282" expanded="true" signature="382:495" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApp/Controllers/RolesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <marker date="1542880167998" expanded="true" signature="6:254" ph="..." />
+            <marker date="1542880167998" expanded="true" signature="285:3613" ph="{...}" />
+            <marker date="1542880167998" expanded="true" signature="333:3611" ph="{...}" />
+            <marker date="1542880167998" expanded="true" signature="528:628" ph="{...}" />
+            <marker date="1542880167998" expanded="true" signature="834:1423" ph="{...}" />
+            <marker date="1542880167998" expanded="true" signature="889:1382" ph="{...}" />
+            <marker date="1542880167998" expanded="true" signature="1037:1127" ph="{...}" />
+            <marker date="1542880167998" expanded="true" signature="1148:1368" ph="{...}" />
+            <marker date="1542880167998" expanded="true" signature="1223:1350" ph="{...}" />
+            <marker date="1542880167998" expanded="true" signature="1511:1783" ph="{...}" />
+            <marker date="1542880167998" expanded="true" signature="1621:1727" ph="{...}" />
+            <marker date="1542880167998" expanded="true" signature="1926:2628" ph="{...}" />
+            <marker date="1542880167998" expanded="true" signature="2066:2585" ph="{...}" />
+            <marker date="1542880167998" expanded="true" signature="2350:2534" ph="{...}" />
+            <marker date="1542880167998" expanded="true" signature="2728:3605" ph="{...}" />
+            <marker date="1542880167998" expanded="true" signature="2868:3562" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApp/Views/Roles/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+          <folding>
+            <marker date="1542880255100" expanded="true" signature="87:496" ph="&lt;table.../&gt;" />
+            <marker date="1542880255100" expanded="true" signature="113:487" ph="@..." />
+            <marker date="1542880255100" expanded="true" signature="141:487" ph="{...}" />
+            <marker date="1542880255100" expanded="true" signature="156:481" ph="&lt;tr.../&gt;" />
+            <marker date="1542880255100" expanded="true" signature="205:467" ph="&lt;td.../&gt;" />
+            <marker date="1542880255100" expanded="true" signature="226:449" ph="&lt;form.../&gt;" />
+            <marker date="1542880255100" expanded="true" signature="311:425" ph="&lt;button.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApp/Views/Users/Create.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <marker date="1542876724977" expanded="true" signature="45:96" ph="@..." />
+            <marker date="1542876724977" expanded="true" signature="97:868" ph="&lt;form.../&gt;" />
+            <marker date="1542876724977" expanded="true" signature="216:385" ph="&lt;div.../&gt;" />
+            <marker date="1542876724977" expanded="true" signature="390:566" ph="&lt;div.../&gt;" />
+            <marker date="1542876724977" expanded="true" signature="571:747" ph="&lt;div.../&gt;" />
+            <marker date="1542876724977" expanded="true" signature="752:860" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApp/Views/Roles/Create.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <marker date="1542880340837" expanded="true" signature="79:331" ph="&lt;form.../&gt;" />
+            <marker date="1542880340837" expanded="true" signature="124:255" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApp/Views/Roles/UserList.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+          <folding>
+            <marker date="1542880431008" expanded="true" signature="71:355" ph="&lt;table.../&gt;" />
+            <marker date="1542880431008" expanded="true" signature="97:346" ph="@..." />
+            <marker date="1542880431008" expanded="true" signature="125:346" ph="{...}" />
+            <marker date="1542880431008" expanded="true" signature="140:340" ph="&lt;tr.../&gt;" />
+            <marker date="1542880431008" expanded="true" signature="190:326" ph="&lt;td.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApp/Views/Roles/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding>
+            <marker date="1542880473369" expanded="true" signature="145:613" ph="&lt;form.../&gt;" />
+            <marker date="1542880473369" expanded="true" signature="252:536" ph="&lt;div.../&gt;" />
+            <marker date="1542880473369" expanded="true" signature="285:525" ph="@..." />
+            <marker date="1542880473369" expanded="true" signature="331:525" ph="{...}" />
           </folding>
         </state>
       </provider>
