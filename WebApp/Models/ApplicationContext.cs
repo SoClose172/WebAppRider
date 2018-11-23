@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
+
+
 namespace WebApp.Models
 {
     public class ApplicationContext :IdentityDbContext<User>
@@ -10,6 +12,6 @@ namespace WebApp.Models
         {
            // Database.EnsureCreated();
         }
-        
+        public DbSet<Note> Notes { get; set; }
     }
 }

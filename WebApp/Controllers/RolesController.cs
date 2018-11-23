@@ -3,10 +3,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using WebApp.Models;
 using WebApp.ViewModels;
- 
+using Microsoft.AspNetCore.Authorization;
+
+
 namespace WebApp.Controllers
 {
     public class RolesController : Controller
@@ -18,10 +19,16 @@ namespace WebApp.Controllers
             _roleManager = roleManager;
             _userManager = userManager;
         }
+        
+        [Authorize(Roles="admin")]
         public IActionResult Index() => View(_roleManager.Roles.ToList());
- 
+        
+        [Authorize(Roles="admin")]
         public IActionResult Create() => View();
+        
+        
         [HttpPost]
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> Create(string name)
         {
             if (!string.IsNullOrEmpty(name))
@@ -43,6 +50,7 @@ namespace WebApp.Controllers
         }
          
         [HttpPost]
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> Delete(string id)
         {
             IdentityRole role = await _roleManager.FindByIdAsync(id);
@@ -53,8 +61,10 @@ namespace WebApp.Controllers
             return RedirectToAction("Index");
         }
  
+        [Authorize(Roles="admin")]
         public IActionResult UserList() => View(_userManager.Users.ToList());
  
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> Edit(string userId)
         {
             // получаем пользователя
@@ -77,6 +87,7 @@ namespace WebApp.Controllers
             return NotFound();
         }
         [HttpPost]
+        [Authorize(Roles="admin")]
         public async Task<IActionResult> Edit(string userId, List<string> roles)
         {
             // получаем пользователя

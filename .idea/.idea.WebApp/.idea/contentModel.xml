@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\1\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_WebApp.-2023841974.00" t="ExcludeRecursive" />
-    <e p="C:\Users\1\RiderProjects\WebApp" t="IncludeFlat">
+    <e p="C:\Users\1\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_WebApp.-15042381.00" t="ExcludeRecursive" />
+    <e p="C:\Users\1\RiderProjects\NormVersia" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="WebApp" t="IncludeRecursive">
         <e p="appsettings.Development.json" t="Include" />
@@ -18,19 +18,23 @@
         <e p="Controllers" t="Include">
           <e p="AccountController.cs" t="Include" />
           <e p="HomeController.cs" t="Include" />
+          <e p="NotesController.cs" t="Include" />
           <e p="RolesController.cs" t="Include" />
           <e p="UsersController.cs" t="Include" />
         </e>
         <e p="Migrations" t="Include">
-          <e p="20181122085729_Init.cs" t="Include" />
-          <e p="20181122085729_Init.Designer.cs" t="Include" />
-          <e p="20181122093307_Init2.cs" t="Include" />
-          <e p="20181122093307_Init2.Designer.cs" t="Include" />
+          <e p="20181122145918_Init.cs" t="Include" />
+          <e p="20181122145918_Init.Designer.cs" t="Include" />
+          <e p="20181122150146_Initial.cs" t="Include" />
+          <e p="20181122150146_Initial.Designer.cs" t="Include" />
+          <e p="20181123110647_Init1.cs" t="Include" />
+          <e p="20181123110647_Init1.Designer.cs" t="Include" />
           <e p="ApplicationContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
           <e p="ApplicationContext.cs" t="Include" />
           <e p="ErrorViewModel.cs" t="Include" />
+          <e p="Note.cs" t="Include" />
           <e p="User.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
@@ -65,6 +69,13 @@
             <e p="Contact.cshtml" t="Include" />
             <e p="Index.cshtml" t="Include" />
             <e p="Privacy.cshtml" t="Include" />
+          </e>
+          <e p="Notes" t="Include">
+            <e p="Create.cshtml" t="Include" />
+            <e p="Delete.cshtml" t="Include" />
+            <e p="Details.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
           </e>
           <e p="Roles" t="Include">
             <e p="Create.cshtml" t="Include" />

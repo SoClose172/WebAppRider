@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\1\\RiderProjects\\WebApp\\WebApp\\WebApp.csproj",
+    "projectUniqueName": "C:\\Users\\1\\RiderProjects\\NormVersia\\WebApp\\WebApp.csproj",
     "projectName": "WebApp",
-    "projectPath": "C:\\Users\\1\\RiderProjects\\WebApp\\WebApp\\WebApp.csproj",
-    "outputPath": "C:\\Users\\1\\RiderProjects\\WebApp\\WebApp\\obj\\",
+    "projectPath": "C:\\Users\\1\\RiderProjects\\NormVersia\\WebApp\\WebApp.csproj",
+    "outputPath": "C:\\Users\\1\\RiderProjects\\NormVersia\\WebApp\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -36,6 +36,10 @@
           "suppressParent": "All",
           "target": "Package",
           "version": "[2.1.2, )"
+        },
+        "Microsoft.EntityFrameworkCore.Proxies": {
+          "target": "Package",
+          "version": "[2.1.4, )"
         },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",

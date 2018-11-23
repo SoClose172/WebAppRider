@@ -5,12 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using WebApp.Models;
 using WebApp.ViewModels;
 
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Identity;
 
-using WebApp.ViewModels;
 
 namespace WebApp.Controllers
 {
